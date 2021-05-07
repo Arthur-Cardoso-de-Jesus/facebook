@@ -1,0 +1,122 @@
+*{
+  margin:0 auto;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+h1{
+   color: white;
+}
+
+
+/*  Configuração do menu                    
+
+*/
+#header1{
+  width: max-content;
+  color: rgb(179, 39, 39);
+  display: block;
+}
+
+
+
+
+#menu_h ul {
+    height:10%;
+    width: 100%;
+    list-style: none;
+    padding-left: 250px;
+    block-size: 100px;
+    margin-block: 5% 0%;
+    background-color:rgb(0, 0, 0);
+    text-align: left;
+}
+
+#menu_h ul li{
+  display: inline;
+}
+
+#menu_h ul li a{
+  font-size: 50px;
+  color: rgb(81, 202, 218); 
+  padding: 20px;
+  display: inline-block;
+  text-decoration: none;
+  transition: background .4s ;
+  transition-timing-function: 20;
+}
+
+
+#menu_h ul li a:hover{
+  background:  rgba(168, 168, 168, 0.651);
+  
+}
+
+
+h1{
+ color: rgb(0, 0, 0);
+ margin-left: 200px;
+ 
+}
+
+.blogpart {
+  display: block;
+  background:lightseagreen;
+  display: block;
+  block-size: 300px;
+  margin-block: 10%;
+  margin-top: 10%;
+  position:absolute;
+
+ }
+
+.bigh1 {
+  color:rgb(0, 0, 0);
+  font-size: 1900%;
+  background-size: auto;
+
+}
+
+.mediumh2{
+color: rgb(0, 0, 0);
+text
+text-indent: 1%;
+text-align: justify;
+padding-left: 5%;
+padding-right: 5%;
+font-size:300%;
+}
+
+section{
+  background-color: rgb(0, 113, 133);
+  block-size: 10px;
+}
+
+main{
+  background: rgba(255, 255, 255, 0.664);
+  block-size: 1350px;
+}
+
+footer{
+  background: rgb(211, 211, 211);
+   height: 95px;
+  
+}
+
+footer h1{
+   color: rgb(94, 94, 94);
+   padding: 20px;
+   font-size: 50px;
+  
+}
+
+
+
+
+/* FIM DA PAGINA DA HOME*/
+
+/*Styling da pagina 1*/
+
+
+

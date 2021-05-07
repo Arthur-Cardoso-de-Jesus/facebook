@@ -1,0 +1,133 @@
+body{
+    background-image: linear-gradient(180deg,purple,orange);
+    }
+    h1{
+        color:white;
+        text-decoration: underline;
+        text-align: justify;
+        margin-top: 30px;
+        margin-left:200px;
+        margin-bottom: 80px;
+      }
+     
+      h2{
+        color:white;
+        text-align: justify;
+        margin-left: 100px;
+        margin-top: 80px;
+        margin-bottom: 50px;
+      }
+     
+      p{
+        color:white;
+        text-align: justify;
+        margin-left: 100px;
+        margin-top: 50px;
+      }
+     
+     #sweets{
+        color:white;
+        text-decoration: underline;
+        text-align: justify;
+        margin-top: 100px;
+        margin-left:200px;
+        margin-bottom: 80px;
+     }
+      
+      #drinks{
+        color:white;
+        text-decoration: underline;
+        text-align: justify;
+        margin-top: 100px;
+        margin-left:200px;
+        margin-bottom: 80px;
+     
+      }
+         
+     
+     
+      
+      #imgcalzone{
+     
+     position: absolute; 
+     left: 700px;
+     top: 1230px; 
+     border-style: solid;
+     }
+     
+     #imggiantxis{
+     
+     position: absolute;
+     left: 700px;
+     top: 130px;
+     border-style: solid;
+     }
+     #imghotdog{
+     position:absolute;
+     left:700px;
+     top:380px;
+     border-style: solid;
+     }
+     
+     #imghotxis{
+     position: absolute;
+     left: 700px;
+     top:630px;
+     border-style: solid;
+     
+     }
+     
+     #imgcrepe{
+     position: absolute;
+     left: 700px;
+     top: 1490px;
+     border-style: solid;
+     }
+     
+     #imgsimplehamburguer{
+      position: absolute;
+      left: 700px;
+      top: 880px;
+      border-style: solid;
+     
+     }
+     
+     #imgicecream{
+       position: absolute;
+       left: 700px;
+       top: 1760px;
+       border-style: solid;
+     
+     }
+     
+     #imgcoke{
+       position: absolute;
+       left: 700px;
+       top: 2615px;
+       border-style: solid;
+     
+     }
+     
+     #imgfruki{
+       position: absolute;
+       left: 700px;
+       top:2115px;
+       border-style: solid;
+     
+     }
+     
+     #imgpepsi{
+       position: absolute;
+       left: 700px;
+       top:2365px;
+       border-style: solid;
+     
+     }
+     #imgfantauva{
+       position: absolute;
+       left:700px;
+       top:2870px;
+       border-style:solid;
+     
+     
+     } 
